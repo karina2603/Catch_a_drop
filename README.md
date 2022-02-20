@@ -1,2 +1,2 @@
-# Java_projects
-My projects on java
+# Catch_a_drop
+First window game on Java
